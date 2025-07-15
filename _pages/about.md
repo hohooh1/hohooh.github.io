@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research focuses on computer vision and deep learning.
+My name is Xuesheng Zhou. My research focuses on computer vision and deep learning.
